@@ -1,0 +1,8 @@
+#Assignment-1
+STUDENT={1:[15,'MINNU','FEMALE','MPCS',98],2:[24,'MITTU','MALE','MCCS',96],3:[32,'MANNU','MALE','MPAIR',98.9]}
+X=int(input('ENTER STUDENT NO:'))
+print('SNO:',STUDENT[X][0])
+print('NAME:',STUDENT[X][1])
+print('GENDER:',STUDENT[X][2])
+print('GROUP:',STUDENT[X][3])
+print('RESULT:',STUDENT[X][4])
